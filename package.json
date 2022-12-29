@@ -1,0 +1,16 @@
+{
+    "name": "tunanowplaying",
+    "version": "0.1.0",
+    "main": "index.js",
+    "author": "ePirat",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ePirat/TunaNowPlayingCiderPlugin.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ePirat/TunaNowPlayingCiderPlugin/issues"
+    },
+    "homepage": "https://github.com/ePirat/TunaNowPlayingCiderPlugin#readme",
+    "description": "Makes the currently playing Song information available to Tuna"
+}
