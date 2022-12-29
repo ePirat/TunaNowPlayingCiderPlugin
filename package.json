@@ -12,5 +12,5 @@
         "url": "https://github.com/ePirat/TunaNowPlayingCiderPlugin/issues"
     },
     "homepage": "https://github.com/ePirat/TunaNowPlayingCiderPlugin#readme",
-    "description": "Makes the currently playing Song information available to Tuna"
+    "description": "Tuna (OBS) Now Playing Updater"
 }
